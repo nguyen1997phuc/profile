@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on WidgetCo Inc</title>
-    <link>http://yourdomain.com/about/</link>
+    <link>https://nguyenhongphuc2019.github.io/profile/about/</link>
     <description>Recent content in Abouts on WidgetCo Inc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jul 2015 14:08:35 +0200</lastBuildDate>
     
-	<atom:link href="http://yourdomain.com/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nguyenhongphuc2019.github.io/profile/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>http://yourdomain.com/about/about/</link>
+      <link>https://nguyenhongphuc2019.github.io/profile/about/about/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
       
-      <guid>http://yourdomain.com/about/about/</guid>
+      <guid>https://nguyenhongphuc2019.github.io/profile/about/about/</guid>
       <description></description>
     </item>
     

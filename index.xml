@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WidgetCo Inc</title>
-    <link>http://yourdomain.com/</link>
+    <link>https://nguyenhongphuc2019.github.io/profile/</link>
     <description>Recent content on WidgetCo Inc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jul 2015 14:08:29 +0200</lastBuildDate>
     
-	<atom:link href="http://yourdomain.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nguyenhongphuc2019.github.io/profile/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>http://yourdomain.com/post/first/</link>
+      <link>https://nguyenhongphuc2019.github.io/profile/post/first/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
       
-      <guid>http://yourdomain.com/post/first/</guid>
+      <guid>https://nguyenhongphuc2019.github.io/profile/post/first/</guid>
       <description>Hello, everyone!
 My name is Nguyen Hong Phuc, you can call me Phuc.
 I am in my early twenties
@@ -25,10 +25,10 @@ My hometown is Bao Loc city and i am a student</description>
     
     <item>
       <title>Second</title>
-      <link>http://yourdomain.com/post/second/</link>
+      <link>https://nguyenhongphuc2019.github.io/profile/post/second/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:45 +0200</pubDate>
       
-      <guid>http://yourdomain.com/post/second/</guid>
+      <guid>https://nguyenhongphuc2019.github.io/profile/post/second/</guid>
       <description>I am interested in learning English.
 I have a passion for programming and exploring the new things
 Sometimes i like reading short story&amp;rsquo;s Nguyen Nhat Anh author, it is very exciting</description>
@@ -36,10 +36,10 @@ Sometimes i like reading short story&amp;rsquo;s Nguyen Nhat Anh author, it is v
     
     <item>
       <title>Third</title>
-      <link>http://yourdomain.com/post/third/</link>
+      <link>https://nguyenhongphuc2019.github.io/profile/post/third/</link>
       <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
       
-      <guid>http://yourdomain.com/post/third/</guid>
+      <guid>https://nguyenhongphuc2019.github.io/profile/post/third/</guid>
       <description>I have basic knowledge about Ruby on Rails, SQL with good knowledge about Object Oriented Programming
 I can create a website by using HTML, CSS and JavaScript
 My dream is becomes a developer</description>
@@ -47,10 +47,10 @@ My dream is becomes a developer</description>
     
     <item>
       <title>About Me</title>
-      <link>http://yourdomain.com/about/about/</link>
+      <link>https://nguyenhongphuc2019.github.io/profile/about/about/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
       
-      <guid>http://yourdomain.com/about/about/</guid>
+      <guid>https://nguyenhongphuc2019.github.io/profile/about/about/</guid>
       <description></description>
     </item>
     
